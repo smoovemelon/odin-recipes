@@ -10,9 +10,10 @@ skills I learned listed below.
 Skills:
 1. HTML
 2. Creating HTML boilerplate from scratch
-3. <h> (headers)
-4. <img src="">
-5. <a href="">
-6. <p>
-7. <strong>
-8. <ul>, <ol>, and <li>
+3. Headers
+4. Images
+5. Anchors
+6. Separating lines
+7. Bolding
+8. Unordered and ordered lists
+    -Listing
