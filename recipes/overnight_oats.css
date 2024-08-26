@@ -9,6 +9,11 @@ h2 {
     background-color: bisque;
 }
 
+#oats {
+    height: 400px;
+    width: auto;
+}
+
 .ingredients {
     font-size: 20px;
     font-style: italic;
