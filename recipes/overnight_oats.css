@@ -1,0 +1,16 @@
+h1 {
+    font-size: 40px;
+    background-color: burlywood;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 800;
+    background-color: bisque;
+}
+
+.ingredients {
+    font-size: 20px;
+    font-style: italic;
+    background-color: blanchedalmond;
+}
