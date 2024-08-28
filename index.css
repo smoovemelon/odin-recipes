@@ -1,13 +1,16 @@
 * {
-    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-    box-s
-    background-color: lightsteelblue;
+    width: 250px;
+    height: auto;
+    padding: 20px;
+    color: white;
+    border: 10px solid lightpink;
+    background-color: pink
 }
 
 #description {
@@ -16,4 +19,9 @@ h1 {
 
 .recipes {
     font-size: large;
+}
+
+.list {
+    margin: 5px;
+    margin-left: 20px;
 }
