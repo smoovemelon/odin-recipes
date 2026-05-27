@@ -1,0 +1,41 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Georgia, serif;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(28, 28, 28);
+}
+
+.header, .recipes {
+    text-align: center;
+    color: rgb(28, 28, 28);
+    padding: 1rem;
+}
+
+.header {
+    background-color: rgb(135, 206, 250);
+}
+
+.header h1 {
+    font-size: 3rem;
+}
+
+.recipes {
+    font-size: 1.5rem;
+    background-color: rgb(255, 182, 193);
+}
+
+.recipes ul {
+    list-style: none;
+}
